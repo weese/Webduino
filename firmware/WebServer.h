@@ -147,7 +147,7 @@
 #endif
 
 // declared in wiring.h
-extern "C" unsigned long millis(void);
+//extern "C" unsigned long millis(void);
 
 // declare a static string
 #ifdef __AVR__
